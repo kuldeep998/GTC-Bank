@@ -1,0 +1,486 @@
+2022-07-28 22:41:04 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:41:04 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:41:04 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:41:04 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:41:04 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:41:04 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:41:54 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:41:54 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:41:54 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:41:56 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:41:56 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:41:56 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:41:59 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:41:59 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:41:59 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:42:01 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:42:01 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:42:01 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:42:04 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:42:04 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:42:04 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:42:06 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:42:06 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:42:06 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:42:08 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:42:08 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:42:08 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:42:11 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:42:11 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:42:11 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:42:13 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:42:13 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:42:13 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:42:15 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:42:15 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:42:15 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:42:18 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:42:18 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:42:18 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:42:20 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:42:20 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:42:20 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:42:22 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:42:22 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:42:22 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:42:24 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:42:24 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:42:24 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:42:27 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:42:27 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:42:27 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:42:29 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:42:29 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:42:29 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:42:31 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:42:31 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:42:31 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:42:34 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:42:34 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:42:34 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:42:36 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:42:36 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:42:36 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:42:38 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:42:38 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:42:38 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:42:41 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:42:41 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:42:41 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:42:43 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:42:43 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:42:43 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:42:45 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:42:45 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:42:45 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:42:47 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:42:47 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:42:47 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:42:50 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:42:50 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:42:50 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:42:52 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:42:52 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:42:52 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:42:54 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:42:54 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:42:54 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:42:56 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:42:56 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:42:56 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:42:59 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:42:59 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:42:59 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:43:01 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:43:01 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:43:01 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:43:03 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:43:03 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:43:03 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:43:06 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:43:06 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:43:06 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:43:08 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:43:08 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:43:08 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:43:10 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:43:10 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:43:10 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:43:12 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:43:12 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:43:12 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:43:14 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:43:14 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:43:14 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:43:17 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:43:17 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:43:17 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:43:19 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:43:19 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:43:19 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:43:21 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:43:21 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:43:21 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:43:23 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:43:23 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:43:23 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:43:26 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:43:26 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:43:26 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:43:28 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:43:28 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:43:28 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:55:13 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:55:13 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:55:13 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:55:14 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:55:14 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:55:14 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:55:44 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:55:44 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:55:44 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:55:46 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:55:46 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:55:46 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:55:49 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:55:49 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:55:49 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:55:51 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:55:51 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:55:51 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:55:54 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:55:54 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:55:54 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:55:56 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:55:56 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:55:56 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:55:59 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:55:59 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:55:59 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:56:01 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:56:01 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:56:01 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:56:03 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:56:03 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:56:03 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:56:06 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:56:06 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:56:06 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:56:08 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:56:08 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:56:08 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:56:10 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:56:10 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:56:10 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:56:13 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:56:13 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:56:13 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:56:15 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:56:15 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:56:15 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:56:17 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:56:17 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:56:17 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:56:20 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:56:20 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:56:20 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:56:22 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:56:22 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:56:22 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:56:24 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:56:24 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:56:24 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:56:27 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:56:27 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:56:27 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:56:29 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:56:29 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:56:29 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:56:32 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:56:32 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:56:32 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:56:34 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:56:34 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:56:34 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:56:36 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:56:36 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:56:36 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:56:38 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:56:38 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:56:38 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:56:41 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:56:41 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:56:41 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:56:43 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:56:43 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:56:43 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:56:46 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:56:46 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:56:46 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:56:47 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:56:47 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:56:47 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:56:48 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:56:48 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:56:48 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:59:11 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:59:11 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:59:11 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 22:59:11 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 22:59:11 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 22:59:11 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 23:13:33 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 23:13:33 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 23:13:33 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 23:13:34 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 23:13:34 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 23:13:34 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 23:41:06 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 23:41:06 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 23:41:06 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 23:41:07 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 23:41:07 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 23:41:07 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 23:42:19 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 23:42:19 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 23:42:19 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 23:42:19 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 23:42:19 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 23:42:19 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 23:50:27 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 23:50:27 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 23:50:27 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 23:50:27 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 23:50:27 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 23:50:27 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 23:51:16 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 23:51:16 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 23:51:16 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 23:51:17 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 23:51:17 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 23:51:17 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 23:51:37 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 23:51:37 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 23:51:37 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 23:51:38 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 23:51:38 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 23:51:38 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 23:57:59 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 23:57:59 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 23:57:59 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-28 23:57:59 INFO  GtcBankApplication:13 - This is an info message
+2022-07-28 23:57:59 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-28 23:57:59 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:02:49 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:02:49 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:02:49 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:02:49 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:02:49 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:02:49 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:05:25 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:05:25 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:05:25 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:05:25 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:05:25 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:05:25 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:06:19 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:06:19 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:06:19 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:06:19 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:06:19 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:06:19 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:10:39 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:10:39 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:10:39 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:10:40 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:10:40 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:10:40 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:12:00 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:12:00 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:12:00 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:12:00 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:12:00 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:12:00 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:12:39 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:12:39 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:12:39 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:12:39 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:12:39 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:12:39 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:13:03 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:13:03 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:13:03 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:13:04 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:13:04 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:13:04 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:14:31 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:14:31 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:14:31 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:14:31 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:14:31 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:14:31 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:26:57 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:26:57 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:26:57 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:26:57 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:26:57 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:26:57 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:28:34 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:28:34 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:28:34 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:28:34 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:28:34 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:28:34 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:32:13 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:32:13 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:32:13 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:32:14 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:32:14 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:32:14 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:34:14 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:34:14 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:34:14 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:34:15 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:34:15 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:34:15 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:35:36 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:35:36 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:35:36 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:35:36 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:35:36 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:35:36 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:35:46 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:35:46 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:35:46 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:35:47 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:35:47 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:35:47 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:46:55 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:46:55 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:46:55 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:46:55 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:46:55 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:46:55 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:48:11 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:48:11 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:48:11 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:48:11 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:48:11 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:48:11 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:49:36 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:49:36 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:49:36 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:49:37 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:49:37 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:49:37 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:49:38 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:49:38 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:49:38 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:50:19 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:50:19 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:50:19 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:50:19 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:50:19 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:50:19 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:52:32 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:52:32 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:52:32 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:52:32 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:52:32 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:52:32 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:56:38 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:56:38 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:56:38 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:56:38 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:56:38 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:56:38 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:57:12 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:57:12 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:57:12 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:57:13 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:57:13 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:57:13 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:57:43 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:57:43 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:57:43 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 00:57:43 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 00:57:43 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 00:57:43 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 01:03:05 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 01:03:05 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 01:03:05 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 01:03:05 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 01:03:05 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 01:03:05 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 01:06:49 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 01:06:49 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 01:06:49 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 01:06:49 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 01:06:49 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 01:06:49 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 01:09:10 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 01:09:10 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 01:09:10 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 01:09:10 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 01:09:10 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 01:09:10 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 01:15:56 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 01:15:56 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 01:15:56 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 01:15:57 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 01:15:57 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 01:15:57 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 01:16:15 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 01:16:15 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 01:16:15 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 01:16:15 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 01:16:15 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 01:16:15 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 03:11:03 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 03:11:03 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 03:11:03 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 03:11:03 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 03:11:03 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 03:11:03 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 03:16:57 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 03:16:57 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 03:16:57 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 03:16:57 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 03:16:57 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 03:16:57 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 03:22:34 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 03:22:34 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 03:22:34 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 03:22:35 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 03:22:35 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 03:22:35 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 03:24:49 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 03:24:49 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 03:24:49 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 03:24:49 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 03:24:49 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 03:24:49 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 03:26:28 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 03:26:28 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 03:26:28 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 03:26:28 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 03:26:28 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 03:26:28 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 03:30:28 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 03:30:28 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 03:30:28 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 03:30:28 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 03:30:28 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 03:30:28 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 03:36:25 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 03:36:25 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 03:36:25 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 03:36:26 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 03:36:26 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 03:36:26 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 03:36:47 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 03:36:47 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 03:36:47 ERROR GtcBankApplication:15 - Seems error in the application
+2022-07-29 03:36:48 INFO  GtcBankApplication:13 - This is an info message
+2022-07-29 03:36:48 WARN  GtcBankApplication:14 - Warning for this application
+2022-07-29 03:36:48 ERROR GtcBankApplication:15 - Seems error in the application
